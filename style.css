@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+#about {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
